@@ -1,5 +1,3 @@
-Here’s the updated README with the installation commands included:
-
 ---
 
 # Job Portal Application
@@ -143,4 +141,3 @@ This repository contains both the **frontend** and **backend** for the Job Porta
 
 ---
 
-This README provides a complete overview of the setup, structure, and functionality of both the frontend and backend for the Job Portal application. Be sure to configure your environment variables properly and follow the setup instructions for each part of the project.
